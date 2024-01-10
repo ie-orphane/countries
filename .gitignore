@@ -25,4 +25,4 @@ yarn-error.log*
 .vscode
 countries.py
 countries.json
-./src/modules
+/src/modules
